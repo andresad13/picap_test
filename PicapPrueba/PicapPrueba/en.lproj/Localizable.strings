@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  PicapPrueba
+
+  Created by Leonel Alfonso on 1/18/19.
+  Copyright © 2019 Leonel Alfonso. All rights reserved.
+*/
+"url_list" = "https://picapst.herokuapp.com/api/pssg/bookings";
+"url_detail" = "https://picapst.herokuapp.com/api/pssg/bookings/";
+"token" = "4DsKmPxzcqJ00IUUEvcdGTmbex3e105pd2NxmraT5QZ3-Fwj4dSQIg";
+"status" = "Status:";
+"looking_for_driver" = "Looking for driver";
+"driver_en_route" = "driver in way";
+"waiting_for_passenger" = "waiting for passenger";
+"passenger_on_board" = "passenger on board";
+"finished_by_driver" = "Finished by driver";
+"canceled_by_driver" = "Canceled by driver";
+"canceled_by_passenger" = "Canceled by passenger";
+"expred" = "Expired";
+"passenger" = "Passenger";
+"driver" = "Driver";
+"next_text" = "Next page";
+
+
+
